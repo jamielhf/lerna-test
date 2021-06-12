@@ -1,5 +1,5 @@
 import react from "react";
 
 export default () => {
-  console.log("test", react);
+  console.log("test1", react);
 };
