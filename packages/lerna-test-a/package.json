@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-test/lerna-test-a",
+  "name": "@jamielhf1/lerna-test-a",
   "version": "1.0.3-alpha.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,5 @@
   "dependencies": {
     "react": "^17.0.2"
   },
-  "gitHead": "778427bc948429fe6d40d7a68147a8fae2b85464"
+  "gitHead": "3cf5d84bb2da27991afd97b8555e3a6983c2b0a1"
 }
